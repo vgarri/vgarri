@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Víctor!
 
-I'm currently a **Fullstack Developer Student** at [The Bridge](https://thebridge.tech/bootcamps/desarrollo-web-full-stack/madrid), working really hard to hone my skills in both frontend and backend development. I love learning about new technologies and constantly improving my coding abilities. 🚀
+I'm a **Fullstack Developer**, working really hard to hone my skills in both frontend and backend development. I love learning about new technologies and constantly improving my coding abilities. 🚀
 
 ---
 
